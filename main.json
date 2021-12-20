@@ -178,6 +178,12 @@
  "nextlayerid":16,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC-BY-SA by mariechen"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -190,6 +196,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tf_beach_tileB",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"tf_beach_tileA1\n\nThis tileset is a FREE release for anybody to download. \ntimefantasy.net; Artist's Website:  finalbossblues.com; Twitter:  @finalbossblues; Facebook:  finalbossblues; Patreon: patreon.com\/finalbossblues"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -203,6 +215,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tf_beach_tileA1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"tf_beach_tileA1\n\nThis tileset is a FREE release for anybody to download. \ntimefantasy.net; Artist's Website:  finalbossblues.com; Twitter:  @finalbossblues; Facebook:  finalbossblues; Patreon: patreon.com\/finalbossblues"
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -216,6 +234,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"mapUtilities.png -> cc0 licence by mullana (rc3)"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -239,6 +263,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"beach-desert",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"## Beach \/ Desert\n\n\"[LPC] Beach\/Desert\" by bluecarrot16, Guillaume Lecollinet, Johann Charlot, cynicmusic, Surt, vk, Yar, Buch, Jetrel, Zabin, Hyptosis, and Sharm.\nCC-BY-SA 3.0\n\nBrowserQuest Sprites and Tiles\nGuillaume Lecollinet\nCC-BY-SA 3.0\nhttp:\/\/opengameart.org\/content\/browserquest-sprites-and-tiles\n\nShoot'em up graphic kit\nJohann Charlot\nCC-BY-SA 3.0 \/ GPL 3.0\nhttps:\/\/opengameart.org\/content\/shootem-up-graphic-kit\n\nPixelsphere 32x32 Tileset + Grass + Trees\ncynicmusic\nCC0\nhttp:\/\/opengameart.org\/content\/pixelsphere-32x32-tileset-grass-trees\n\ntrees\nSurt, vk\nCC0\nhttps:\/\/opengameart.org\/content\/trees-1\n\nIsometric 64x64 Outside Tileset\nYar\nCC-BY 3.0\nhttps:\/\/opengameart.org\/content\/isometric-64x64-outside-tileset\n\nTuxemon tileset\nBuch\nCC-BY-SA 3.0\nhttps:\/\/opengameart.org\/content\/tuxemon-tileset\n\nLots of trees and plants from OGA (DB32) tilesets pack 1\nJetrel, Zabin, Hyptosis, Surt\nCC0\nhttps:\/\/opengameart.org\/content\/lots-of-trees-and-plants-from-oga-db32-tilesets-pack-1\n\nBone Planet\nHyptosis\nCC0\nhttps:\/\/opengameart.org\/content\/bone-planet\n\nWhispers of Avalon: Desert Tileset\nLeonard Pabin, Ali-G\nCC-BY 3.0 \/ GPL 3.0 \/ GPL 2.0\nhttps:\/\/opengameart.org\/content\/whispers-of-avalon-desert-tileset\n\n[LPC] Arabic Elements\nLanea Zimmerman (Sharm), William Thompson\nCC-BY 3.0 \/ GPL 3.0 \/ GPL 2.0 \/ OGA-BY 3.0 \nhttps:\/\/opengameart.org\/content\/lpc-arabic-elements\n\nLots of free 2d tiles and sprites by Hyptosis\nHyptosis, Zabin\nCC-BY 3.0\nhttps:\/\/opengameart.org\/content\/lots-of-free-2d-tiles-and-sprites-by-hyptosis"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -252,6 +282,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"magecity",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"magecity by Hyptosis\nFeel free to use it for anything, you can even make profit. If you want please give me credit for the tile though as 'Hyptosis' or link to www.lorestrome.com if you want. But you're not obligated to. Everyone should be able to make games, I hope these help.\nhttps:\/\/opengameart.org\/content\/mage-city-arcanos"
+                }],
          "spacing":0,
          "tilecount":360,
          "tileheight":32,
@@ -265,6 +301,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"rc3-2021-mullana-ground",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3-2021-mullana-ground.png -> cc0 licence by mullana (rc3)"
+                }],
          "spacing":0,
          "tilecount":3600,
          "tileheight":32,
@@ -278,6 +320,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"worldExit.png -> cc0 licence by mullana (rc3)"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -291,6 +339,12 @@
          "imagewidth":544,
          "margin":1,
          "name":"BaseChip_pipo_rearranged",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Pipoya 32x32 RPG Tileset (modded)\n- For commercial or personal use.\n- Use and edit freely.\n- Not redistribute or resell this assets.\n- It can be used for game development and other productions.\nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32\n"
+                }],
          "spacing":2,
          "tilecount":1120,
          "tileheight":32,
@@ -304,6 +358,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3-mullana-objects.png -> cc0 licence by mullana (rc3)"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -317,6 +377,12 @@
          "imagewidth":960,
          "margin":0,
          "name":"rc3-2021-mullana-utility",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3-2021-mullana-utility.png -> cc0 licence by mullana (rc3)"
+                }],
          "spacing":0,
          "tilecount":1200,
          "tileheight":32,
