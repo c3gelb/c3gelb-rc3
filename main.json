@@ -519,25 +519,6 @@
          "tilecount":12,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":7138,
-         "image":"..\/Pixelwelten\/Tilesets\/Pipoya\/BaseChip_pipo_rearranged.png",
-         "imageheight":2380,
-         "imagewidth":544,
-         "margin":1,
-         "name":"BaseChip_pipo_rearranged",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"Pipoya 32x32 RPG Tileset (modded)\n- For commercial or personal use.\n- Use and edit freely.\n- Not redistribute or resell this assets.\n- It can be used for game development and other productions.\nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
-                }],
-         "spacing":2,
-         "tilecount":1120,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
