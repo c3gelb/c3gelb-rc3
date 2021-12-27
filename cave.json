@@ -16,12 +16,12 @@
         }, 
         {
          "draworder":"topdown",
-         "id":40,
+         "id":42,
          "name":"badge",
          "objects":[
                 {
-                 "height":18.5670598514635,
-                 "id":1,
+                 "height":19.7802197802198,
+                 "id":3,
                  "name":"",
                  "properties":[
                         {
@@ -32,9 +32,9 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":56.7933595456532,
-                 "x":899.956312800349,
-                 "y":324.37745740498
+                 "width":53.8461538461538,
+                 "x":901.098901098901,
+                 "y":324.175824175824
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -233,8 +233,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":42,
- "nextobjectid":3,
+ "nextlayerid":43,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "properties":[
         {
